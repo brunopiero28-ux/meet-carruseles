@@ -1,506 +1,1262 @@
 [
-{
-"fecha": "2026-11-25",
-"slot": "0730",
-"pieza": "c13",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1230_TOFU_c13_pareja_por_depa/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1230_TOFU_c13_pareja_por_depa/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-25",
-"slot": "1605",
-"pieza": "N21",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1930_MOFU_N21_n21_tcea_tea/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1930_MOFU_N21_n21_tcea_tea/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-26",
-"slot": "0730",
-"pieza": "C1",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D03_26nov_1230_MOFU_C1_c01_como_compramos/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D03_26nov_1230_MOFU_C1_c01_como_compramos/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-26",
-"slot": "1605",
-"pieza": "N3",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D03_26nov_1930_TOFU_N3_n03_soffie_alquiler/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D03_26nov_1930_TOFU_N3_n03_soffie_alquiler/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-27",
-"slot": "0730",
-"pieza": "N14",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D04_27nov_1230_TOFU_N14_n14_verano_balcon/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D04_27nov_1230_TOFU_N14_n14_verano_balcon/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-27",
-"slot": "1605",
-"pieza": "I6",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D04_27nov_1930_MOFU_I6_i06_tres_cosas/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D04_27nov_1930_MOFU_I6_i06_tres_cosas/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-28",
-"slot": "0730",
-"pieza": "c12",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D05_28nov_1230_TOFU_c12_baja_un_dedo/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D05_28nov_1230_TOFU_c12_baja_un_dedo/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-28",
-"slot": "1605",
-"pieza": "N30",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D05_28nov_1930_BOFU_N30_n30_credito_sin_tiempo/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D05_28nov_1930_BOFU_N30_n30_credito_sin_tiempo/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-29",
-"slot": "0730",
-"pieza": "I9",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D06_29nov_1230_TOFU_I9_i09_cinco_vecinos/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D06_29nov_1230_TOFU_I9_i09_cinco_vecinos/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-29",
-"slot": "1605",
-"pieza": "N18",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D06_29nov_1930_MOFU_N18_n18_cap_rate/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D06_29nov_1930_MOFU_N18_n18_cap_rate/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-30",
-"slot": "0730",
-"pieza": "c03",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D07_30nov_1230_MOFU_c03_conocerte/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D07_30nov_1230_MOFU_c03_conocerte/story_2.jpg"
-]
-},
-{
-"fecha": "2026-11-30",
-"slot": "1605",
-"pieza": "N56",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D07_30nov_1930_BOFU_N56_n56_un_dormitorio/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D07_30nov_1930_BOFU_N56_n56_un_dormitorio/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-01",
-"slot": "0730",
-"pieza": "I10",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D08_01dic_1230_MOFU_I10_i10_gastos_excel/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D08_01dic_1230_MOFU_I10_i10_gastos_excel/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-01",
-"slot": "1605",
-"pieza": "N8",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D08_01dic_1930_TOFU_N8_n08_carta_alquiler/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D08_01dic_1930_TOFU_N8_n08_carta_alquiler/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-02",
-"slot": "0730",
-"pieza": "c06",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D09_02dic_1230_TOFU_c06_nunca_triste/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D09_02dic_1230_TOFU_c06_nunca_triste/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-02",
-"slot": "1605",
-"pieza": "N45",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D09_02dic_1930_MOFU_N45_n45_no_atrasado/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D09_02dic_1930_MOFU_N45_n45_no_atrasado/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-03",
-"slot": "0730",
-"pieza": "N10",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D10_03dic_1230_TOFU_N10_n10_fomo/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D10_03dic_1230_TOFU_N10_n10_fomo/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-03",
-"slot": "1605",
-"pieza": "c11",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D10_03dic_1930_MOFU_c11_mercado_lima/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D10_03dic_1930_MOFU_c11_mercado_lima/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-04",
-"slot": "0730",
-"pieza": "I5",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D11_04dic_1230_TOFU_I5_i05_imaginas_vs_pasa/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D11_04dic_1230_TOFU_I5_i05_imaginas_vs_pasa/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-04",
-"slot": "1605",
-"pieza": "N48",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D11_04dic_1930_BOFU_N48_n48_que_te_frena/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D11_04dic_1930_BOFU_N48_n48_que_te_frena/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-05",
-"slot": "0730",
-"pieza": "c04",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D12_05dic_1230_BOFU_c04_piedra_papel_tijera/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D12_05dic_1230_BOFU_c04_piedra_papel_tijera/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-05",
-"slot": "1605",
-"pieza": "N5",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D12_05dic_1930_TOFU_N5_n05_frases_papas/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D12_05dic_1930_TOFU_N5_n05_frases_papas/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-06",
-"slot": "0730",
-"pieza": "c05",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D13_06dic_1230_MOFU_c05_que_te_importa/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D13_06dic_1230_MOFU_c05_que_te_importa/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-07",
-"slot": "0730",
-"pieza": "N19",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D14_07dic_1230_MOFU_N19_n19_caprate_vs_rentabilidad/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D14_07dic_1230_MOFU_N19_n19_caprate_vs_rentabilidad/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-07",
-"slot": "1605",
-"pieza": "N31",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D14_07dic_1930_BOFU_N31_n31_que_hacemos_mientras_trabajas/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D14_07dic_1930_BOFU_N31_n31_que_hacemos_mientras_trabajas/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-08",
-"slot": "0730",
-"pieza": "N13",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D15_08dic_1230_TOFU_N13_n13_feriado/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D15_08dic_1230_TOFU_N13_n13_feriado/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-08",
-"slot": "1605",
-"pieza": "I8",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D15_08dic_1930_MOFU_I8_i08_pareja_sin_casarse/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D15_08dic_1930_MOFU_I8_i08_pareja_sin_casarse/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-09",
-"slot": "0730",
-"pieza": "N11",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D16_09dic_1230_TOFU_N11_n11_whatsapp_familiar/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D16_09dic_1230_TOFU_N11_n11_whatsapp_familiar/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-09",
-"slot": "1605",
-"pieza": "N25",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D16_09dic_1930_MOFU_N25_n25_preventa_vs_entrega/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D16_09dic_1930_MOFU_N25_n25_preventa_vs_entrega/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-10",
-"slot": "0730",
-"pieza": "c10",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D17_10dic_1230_MOFU_c10_treinta_anos/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D17_10dic_1230_MOFU_c10_treinta_anos/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-10",
-"slot": "1605",
-"pieza": "N33",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D17_10dic_1930_BOFU_N33_n33_asesoria_20min/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D17_10dic_1930_BOFU_N33_n33_asesoria_20min/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-11",
-"slot": "0730",
-"pieza": "N15",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D18_11dic_1230_TOFU_N15_n15_soffie_califica/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D18_11dic_1230_TOFU_N15_n15_soffie_califica/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-11",
-"slot": "1605",
-"pieza": "N26",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D18_11dic_1930_MOFU_N26_n26_mitos_alquiler/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D18_11dic_1930_MOFU_N26_n26_mitos_alquiler/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-12",
-"slot": "0730",
-"pieza": "I13",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D19_12dic_1230_MOFU_I13_i13_miraflores/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D19_12dic_1230_MOFU_I13_i13_miraflores/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-12",
-"slot": "1605",
-"pieza": "N9",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D19_12dic_1930_TOFU_N9_n09_miedo_endeudarte/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D19_12dic_1930_TOFU_N9_n09_miedo_endeudarte/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-13",
-"slot": "0730",
-"pieza": "c09",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D20_13dic_1230_BOFU_c09_no_te_vendo_m2/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D20_13dic_1230_BOFU_c09_no_te_vendo_m2/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-13",
-"slot": "1605",
-"pieza": "N29",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D20_13dic_1930_MOFU_N29_n29_checklist_visita/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D20_13dic_1930_MOFU_N29_n29_checklist_visita/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-14",
-"slot": "0730",
-"pieza": "N42",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D21_14dic_1230_TOFU_N42_n42_postergas/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D21_14dic_1230_TOFU_N42_n42_postergas/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-14",
-"slot": "1605",
-"pieza": "N46",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D21_14dic_1930_MOFU_N46_n46_cuota_dormir/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D21_14dic_1930_MOFU_N46_n46_cuota_dormir/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-15",
-"slot": "0730",
-"pieza": "N27",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D22_15dic_1230_MOFU_N27_n27_gratificacion/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D22_15dic_1230_MOFU_N27_n27_gratificacion/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-15",
-"slot": "1605",
-"pieza": "N58",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D22_15dic_1930_BOFU_N58_n58_mono_vs_1dorm/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D22_15dic_1930_BOFU_N58_n58_mono_vs_1dorm/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-16",
-"slot": "0730",
-"pieza": "I14",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D23_16dic_1230_MOFU_I14_i14_respondemos/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D23_16dic_1230_MOFU_I14_i14_respondemos/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-16",
-"slot": "1605",
-"pieza": "N6",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D23_16dic_1930_TOFU_N6_n06_navidad/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D23_16dic_1930_TOFU_N6_n06_navidad/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-17",
-"slot": "0730",
-"pieza": "N24",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D24_17dic_1230_MOFU_N24_n24_intereses/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D24_17dic_1230_MOFU_N24_n24_intereses/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-17",
-"slot": "1605",
-"pieza": "N59",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D24_17dic_1930_BOFU_N59_n59_tres_claves_1dorm/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D24_17dic_1930_BOFU_N59_n59_tres_claves_1dorm/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-18",
-"slot": "1605",
-"pieza": "N28",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D25_18dic_1930_MOFU_N28_n28_despues_firma/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D25_18dic_1930_MOFU_N28_n28_despues_firma/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-19",
-"slot": "0730",
-"pieza": "N43",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D26_19dic_1230_TOFU_N43_n43_yo_5_anos/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D26_19dic_1230_TOFU_N43_n43_yo_5_anos/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-19",
-"slot": "1605",
-"pieza": "N60",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D26_19dic_1930_BOFU_N60_n60_se_paga_solo/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D26_19dic_1930_BOFU_N60_n60_se_paga_solo/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-20",
-"slot": "0730",
-"pieza": "N57",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D27_20dic_1230_MOFU_N57_n57_depas_flex/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D27_20dic_1230_MOFU_N57_n57_depas_flex/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-20",
-"slot": "1605",
-"pieza": "N52",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D27_20dic_1930_BOFU_N52_n52_cuentanos_tu_dia/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D27_20dic_1930_BOFU_N52_n52_cuentanos_tu_dia/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-21",
-"slot": "0730",
-"pieza": "N7",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D28_21dic_1230_TOFU_N7_n07_ano_nuevo/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D28_21dic_1230_TOFU_N7_n07_ano_nuevo/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-21",
-"slot": "1605",
-"pieza": "N53",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D28_21dic_1930_BOFU_N53_n53_conversacion_calma/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D28_21dic_1930_BOFU_N53_n53_conversacion_calma/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-22",
-"slot": "0730",
-"pieza": "c02",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D29_22dic_1230_BOFU_c02_ano_nuevo/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D29_22dic_1230_BOFU_c02_ano_nuevo/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-22",
-"slot": "1605",
-"pieza": "N61",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D29_22dic_1930_BOFU_N61_n61_lo_voy_a_pensar/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D29_22dic_1930_BOFU_N61_n61_lo_voy_a_pensar/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-23",
-"slot": "0730",
-"pieza": "N47",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D30_23dic_1230_MOFU_N47_n47_dia_llaves/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D30_23dic_1230_MOFU_N47_n47_dia_llaves/story_2.jpg"
-]
-},
-{
-"fecha": "2026-12-23",
-"slot": "1605",
-"pieza": "N62",
-"urls": [
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D30_23dic_1930_BOFU_N62_n62_separa_diciembre/story_1.jpg",
-"https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D30_23dic_1930_BOFU_N62_n62_separa_diciembre/story_2.jpg"
-]
-}
+ {
+  "fecha": "2026-11-25",
+  "slot": "0730",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1230_TOFU_c13_pareja_por_depa/story_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1230_TOFU_c13_pareja_por_depa/story_2.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-25",
+  "slot": "1605",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1930_MOFU_N21_n21_tcea_tea/story_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1930_MOFU_N21_n21_tcea_tea/story_2.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-26",
+  "slot": "0730",
+  "formato": "noticia",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-26_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-26",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-26_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-26",
+  "slot": "1605",
+  "formato": "versus",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-26_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-26",
+  "slot": "2030",
+  "formato": "notas",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-26_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-27",
+  "slot": "0730",
+  "formato": "dato",
+  "media": [
+   {
+    "tipo": "video",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-27_0730.mp4"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-27",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-27_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-27",
+  "slot": "1605",
+  "formato": "caso",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-27_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-27",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-27_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-28",
+  "slot": "0730",
+  "formato": "adivina",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-28_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-28",
+  "slot": "1230",
+  "formato": "mito",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-28_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-28",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-28_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-28",
+  "slot": "2030",
+  "formato": "expect",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-28_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-29",
+  "slot": "0730",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-29_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-29",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-29_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-29",
+  "slot": "1605",
+  "formato": "tipos",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-29_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-29",
+  "slot": "2030",
+  "formato": "frase",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-29_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-30",
+  "slot": "0730",
+  "formato": "dato",
+  "media": [
+   {
+    "tipo": "video",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-30_0730.mp4"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-30",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-30_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-30",
+  "slot": "1605",
+  "formato": "split",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-30_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-30",
+  "slot": "2030",
+  "formato": "notas",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-30_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-01",
+  "slot": "0730",
+  "formato": "noticia",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-01_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-01",
+  "slot": "1230",
+  "formato": "mito",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-01_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-01",
+  "slot": "1605",
+  "formato": "caso",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-01_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-01",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-01_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-02",
+  "slot": "0730",
+  "formato": "adivina",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-02_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-02",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-02_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-02",
+  "slot": "1605",
+  "formato": "chat",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-02_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-02",
+  "slot": "2030",
+  "formato": "expect",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-02_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-03",
+  "slot": "0730",
+  "formato": "dato",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-03_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-03",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-03_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-03",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-03_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-03",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-03_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-04",
+  "slot": "0730",
+  "formato": "noticia",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-04_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-04",
+  "slot": "1230",
+  "formato": "mito",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-04_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-04",
+  "slot": "1605",
+  "formato": "caso",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-04_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-04",
+  "slot": "2030",
+  "formato": "tipos",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-04_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-05",
+  "slot": "0730",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-05_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-05",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-05_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-05",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-05_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-05",
+  "slot": "2030",
+  "formato": "notas",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-05_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-06",
+  "slot": "0730",
+  "formato": "adivina",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-06_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-06",
+  "slot": "1230",
+  "formato": "compara",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-06_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-06",
+  "slot": "1605",
+  "formato": "split",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-06_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-06",
+  "slot": "2030",
+  "formato": "frase",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-06_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-07",
+  "slot": "0730",
+  "formato": "barras",
+  "media": [
+   {
+    "tipo": "video",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-07_0730.mp4"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-07",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-07_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-07",
+  "slot": "1605",
+  "formato": "caso",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-07_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-07",
+  "slot": "2030",
+  "formato": "expect",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-07_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-08",
+  "slot": "0730",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-08_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-08",
+  "slot": "1230",
+  "formato": "mito",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-08_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-08",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-08_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-08",
+  "slot": "2030",
+  "formato": "tipos",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-08_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-09",
+  "slot": "0730",
+  "formato": "noticia",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-09_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-09",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-09_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-09",
+  "slot": "1605",
+  "formato": "versus",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-09_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-09",
+  "slot": "2030",
+  "formato": "notas",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-09_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-10",
+  "slot": "0730",
+  "formato": "adivina",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-10_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-10",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-10_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-10",
+  "slot": "1605",
+  "formato": "caso",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-10_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-10",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-10_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-11",
+  "slot": "0730",
+  "formato": "dato",
+  "media": [
+   {
+    "tipo": "video",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-11_0730.mp4"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-11",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-11_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-11",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-11_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-11",
+  "slot": "2030",
+  "formato": "frase",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-11_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-12",
+  "slot": "0730",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-12_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-12",
+  "slot": "1230",
+  "formato": "mito",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-12_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-12",
+  "slot": "1605",
+  "formato": "split",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-12_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-12",
+  "slot": "2030",
+  "formato": "expect",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-12_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-13",
+  "slot": "0730",
+  "formato": "frase",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-13_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-13",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-13_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-13",
+  "slot": "1605",
+  "formato": "tipos",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-13_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-13",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-13_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-14",
+  "slot": "0730",
+  "formato": "dato",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-14_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-14",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-14_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-14",
+  "slot": "1605",
+  "formato": "caso",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-14_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-14",
+  "slot": "2030",
+  "formato": "notas",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-14_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-15",
+  "slot": "0730",
+  "formato": "noticia",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-15_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-15",
+  "slot": "1230",
+  "formato": "chat",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-15_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-15",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-15_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-15",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-15_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-16",
+  "slot": "0730",
+  "formato": "adivina",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-16_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-16",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-16_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-16",
+  "slot": "1605",
+  "formato": "caso",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-16_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-16",
+  "slot": "2030",
+  "formato": "expect",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-16_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-17",
+  "slot": "0730",
+  "formato": "dato",
+  "media": [
+   {
+    "tipo": "video",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-17_0730.mp4"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-17",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-17_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-17",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-17_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-17",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-17_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-18",
+  "slot": "0730",
+  "formato": "noticia",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-18_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-18",
+  "slot": "1230",
+  "formato": "mito",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-18_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-18",
+  "slot": "1605",
+  "formato": "pregunta",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-18_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-18",
+  "slot": "2030",
+  "formato": "notas",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-18_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-19",
+  "slot": "0730",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-19_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-19",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-19_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-19",
+  "slot": "1605",
+  "formato": "versus",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-19_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-19",
+  "slot": "2030",
+  "formato": "tipos",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-19_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-20",
+  "slot": "0730",
+  "formato": "frase",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-20_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-20",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-20_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-20",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-20_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-20",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-20_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-21",
+  "slot": "0730",
+  "formato": "dato",
+  "media": [
+   {
+    "tipo": "video",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-21_0730.mp4"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-21",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-21_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-21",
+  "slot": "1605",
+  "formato": "caso",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-21_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-21",
+  "slot": "2030",
+  "formato": "notas",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-21_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-22",
+  "slot": "0730",
+  "formato": "noticia",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-22_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-22",
+  "slot": "1230",
+  "formato": "tip",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-22_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-22",
+  "slot": "1605",
+  "formato": "tipos",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-22_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-22",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-22_2030.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-23",
+  "slot": "0730",
+  "formato": "frase",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-23_0730.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-23",
+  "slot": "1230",
+  "formato": "glosario",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-23_1230.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-23",
+  "slot": "1605",
+  "formato": "slider",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-23_1605.jpg"
+   }
+  ]
+ },
+ {
+  "fecha": "2026-12-23",
+  "slot": "2030",
+  "formato": "inspo",
+  "media": [
+   {
+    "tipo": "imagen",
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-12-23_2030.jpg"
+   }
+  ]
+ }
 ]
