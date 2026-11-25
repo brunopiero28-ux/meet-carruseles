@@ -1,29 +1,23 @@
 [
  {
   "fecha": "2026-11-25",
-  "slot": "0730",
+  "slot": "1605",
+  "formato": "mito",
   "media": [
    {
     "tipo": "imagen",
-    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1230_TOFU_c13_pareja_por_depa/story_1.jpg"
-   },
-   {
-    "tipo": "imagen",
-    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1230_TOFU_c13_pareja_por_depa/story_2.jpg"
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-25_1605.jpg"
    }
   ]
  },
  {
   "fecha": "2026-11-25",
-  "slot": "1605",
+  "slot": "2030",
+  "formato": "notas",
   "media": [
    {
     "tipo": "imagen",
-    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1930_MOFU_N21_n21_tcea_tea/story_1.jpg"
-   },
-   {
-    "tipo": "imagen",
-    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/D02_25nov_1930_MOFU_N21_n21_tcea_tea/story_2.jpg"
+    "url": "https://raw.githubusercontent.com/brunopiero28-ux/meet-carruseles/main/stories/v5/2026-11-25_2030.jpg"
    }
   ]
  },
